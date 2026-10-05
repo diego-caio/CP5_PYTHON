@@ -1,0 +1,3 @@
+1;1;PC;9;10/05/2026;Otimo Produto
+2;2;Aplicativos Mobile;4;10/05/2026;Sistemas Lentos
+3;3;IA generativa para bancos;10;10/05/2026;Melhor Engenheiro não tem

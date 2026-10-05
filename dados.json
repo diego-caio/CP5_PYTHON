@@ -1,0 +1,51 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Diego Caio",
+      "idade": 18,
+      "profissao": "Desempregado",
+      "tipo": "estudante"
+    },
+    {
+      "id": 2,
+      "nome": "Lucas Dos Santos",
+      "idade": 19,
+      "profissao": "Dev",
+      "tipo": "gerente"
+    },
+    {
+      "id": 3,
+      "nome": "BielDrak",
+      "idade": 34,
+      "profissao": "Engenheiro de IA",
+      "tipo": "final"
+    }
+  ],
+  "feedbacks": [
+    {
+      "id": 1,
+      "usuario_id": 1,
+      "produto": "PC",
+      "texto": "Otimo Produto",
+      "nota": 9,
+      "data": "10/05/2026"
+    },
+    {
+      "id": 2,
+      "usuario_id": 2,
+      "produto": "Aplicativos Mobile",
+      "texto": "Sistemas Lentos",
+      "nota": 4,
+      "data": "10/05/2026"
+    },
+    {
+      "id": 3,
+      "usuario_id": 3,
+      "produto": "IA generativa para bancos",
+      "texto": "Melhor Engenheiro não tem",
+      "nota": 10,
+      "data": "10/05/2026"
+    }
+  ]
+}
